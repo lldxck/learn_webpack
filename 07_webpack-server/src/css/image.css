@@ -1,0 +1,6 @@
+.image-bg {
+  background-image: url("../img/err.png");
+  background-size: cover;
+  width: 80px;
+  height: 65px;
+}
